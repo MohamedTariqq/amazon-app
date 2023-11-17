@@ -1,6 +1,4 @@
 {
-  "name": "amazon-app",
-  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@stripe/react-stripe-js": "^2.3.0",
